@@ -1,0 +1,2 @@
+# mybluelog
+flaskblog
